@@ -1,3 +1,9 @@
+/*
+ * author: payen S.Tsung 丛培森
+ * date：2016.09
+ * blog：http://blog.csdn.net/q1056843325
+ */
+
 (function (global) {
     var srcPath = 'mine_img';
     var srcArr = [
